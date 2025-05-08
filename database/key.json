@@ -1,0 +1,8 @@
+{
+  "key": "zyymikcucu", 
+  "timer": 60, 
+  "errorMessages": {
+    "timeout": "Waktu habis! Akses ditolak.",
+    "invalidKey": "Password/key salah! Akses ditolak."
+  }
+}
